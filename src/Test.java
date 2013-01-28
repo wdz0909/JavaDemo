@@ -10,7 +10,7 @@ public class Test {
 
 	private static final double a2 = 20.8235231397436565;
 	private static final double b2 = 2.43239266029026899e-05;
-	private static final double c2 = -1001770062.49654049;
+	private static final double c2 = -1001770062.49654049;  
 
 	/**
 	 * ���Ⱦ�ƫ
